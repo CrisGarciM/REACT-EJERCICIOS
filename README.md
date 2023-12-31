@@ -10,3 +10,5 @@ Ejercicios React sobre manejo de componetes, estados, entre otras cosas🤩.
 -Selects Anidados: es un filtrador de estados, municipios y colonias de Mexico utilizando la api de API COPOMEX📍🇲🇽.
 
 -validation form: es un formulario con validacion y envio a un correo electronico de preferencia📩.
+
+-modal window: Prop children de los componentes✔️.
