@@ -1,5 +1,5 @@
 # REACT-EJERCICIOS
-Ejercicios React sobre manejo de componetes, estados, entre otras cosas🤩.
+Ejercicios React sobre manejo de componetes, estados, props, validaciones, hooks, entre otras cosas🤩.
 
 -Crud app: es un crud creado apartir de un arreglo.
 
@@ -12,3 +12,4 @@ Ejercicios React sobre manejo de componetes, estados, entre otras cosas🤩.
 -validation form: es un formulario con validacion y envio a un correo electronico de preferencia📩.
 
 -modal window: Prop children de los componentes✔️.
+
